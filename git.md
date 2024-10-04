@@ -11,3 +11,4 @@ $ git commit -m "commit message"
 - 그곳을 `repository`라고 부른다.
 
 - git branch
+- git branch -d {branch name}
