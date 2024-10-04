@@ -10,5 +10,8 @@ $ git commit -m "commit message"
 - `commit` 즉 버전이란, 아까전 `staging area`에 등록해둔, 변동사항만을 모아서 하나의 상태로 저장한다.
 - 그곳을 `repository`라고 부른다.
 
-- git branch
+- git branch ; 브랜치 목록 보기
+- git branch -r ; 원격레포 브랜치 목록 보기
+- git branch {branch name}
 - git branch -d {branch name}
+- git branch -D {branch name}
