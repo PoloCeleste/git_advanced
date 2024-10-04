@@ -1,4 +1,5 @@
 - `staging area`란, 등록한 파일들의 변동사항만 기록한 txt파일을 `.git` 폴더 어딘가에 모아둔다.
+  -dfdf
 
 ```bash
 # staging area에 등록해둔 변동사항을
